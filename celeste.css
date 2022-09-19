@@ -1,0 +1,121 @@
+h2 {
+    font-size: 20px;
+    line-height: 80px;
+    color: crimson;
+}
+
+body {
+    margin: 0%;
+    padding: 0%;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkgray;
+    background-color: aliceblue;
+    line-height: 17px;
+}
+
+p {
+    text-align: justify;
+}
+
+#logo {
+    color: white;
+    font-size: 24px;
+    padding-top: 10px;
+    float: left;
+}
+
+header {
+    background-color: black;
+    height: 80px;
+    padding: 0;
+    margin: 0;
+}
+
+nav {
+    float: right;
+    padding: 23px 7px 0 0;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav ul li {
+    float: left;
+    padding-left: 50px;
+}
+
+nav ul li a {
+    font-size: 18px;
+    line-height: 24px;
+    color: white;
+    font-weight: bold;
+}
+
+nav ul li a:hover {
+    text-decoration: none;
+    color: crimson;
+}
+
+a {
+    text-decoration: none;
+}
+
+#capa {
+    float: right;
+    padding: 3px 0 0 25px;
+}
+#super{
+
+    padding: 3px 0 0 25px;
+    
+}
+#Rsuper{
+
+    padding: 3px 0 0 25px;
+}
+#hyper{
+
+    padding: 3px 0 0 25px;
+}
+.principal {
+    width: 95%;
+    margin: 0;
+    float: left;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+
+table,
+th,
+td {
+    border: 1px solid;
+    text-align: center;
+}
+
+.formulario {
+    float: top;
+    width: 280px;
+    padding-left: 10px;
+    padding-right: 10px;
+    height: 50%;
+    width: 80%;
+    margin: auto;
+    text-align: justify;
+}
+
+
+
+
+
+footer {
+    clear: both;
+    background-color: white;
+    font-size: 10px;
+    color: gray;
+    height: 46px;
+    border-top: 1px solid slategrey;
+    margin: 10px;
+}
